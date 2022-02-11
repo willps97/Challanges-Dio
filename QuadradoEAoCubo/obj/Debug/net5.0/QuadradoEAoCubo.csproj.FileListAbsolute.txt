@@ -1,0 +1,16 @@
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net5.0\QuadradoEAoCubo.exe
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net5.0\QuadradoEAoCubo.deps.json
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net5.0\QuadradoEAoCubo.runtimeconfig.json
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net5.0\QuadradoEAoCubo.runtimeconfig.dev.json
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net5.0\QuadradoEAoCubo.dll
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net5.0\ref\QuadradoEAoCubo.dll
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\bin\Debug\net5.0\QuadradoEAoCubo.pdb
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net5.0\QuadradoEAoCubo.csproj.AssemblyReference.cache
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net5.0\QuadradoEAoCubo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net5.0\QuadradoEAoCubo.AssemblyInfoInputs.cache
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net5.0\QuadradoEAoCubo.AssemblyInfo.cs
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net5.0\QuadradoEAoCubo.csproj.CoreCompileInputs.cache
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net5.0\QuadradoEAoCubo.dll
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net5.0\ref\QuadradoEAoCubo.dll
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net5.0\QuadradoEAoCubo.pdb
+D:\Desafios\QuadradoEAoCubo\QuadradoEAoCubo\obj\Debug\net5.0\QuadradoEAoCubo.genruntimeconfig.cache
