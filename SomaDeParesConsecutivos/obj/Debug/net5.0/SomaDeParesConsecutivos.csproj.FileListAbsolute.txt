@@ -1,0 +1,16 @@
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.exe
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.deps.json
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.runtimeconfig.json
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.runtimeconfig.dev.json
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.dll
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\ref\SomaDeParesConsecutivos.dll
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.pdb
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.csproj.AssemblyReference.cache
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.AssemblyInfoInputs.cache
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.AssemblyInfo.cs
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.csproj.CoreCompileInputs.cache
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.dll
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\ref\SomaDeParesConsecutivos.dll
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.pdb
+D:\Desafios\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.genruntimeconfig.cache
