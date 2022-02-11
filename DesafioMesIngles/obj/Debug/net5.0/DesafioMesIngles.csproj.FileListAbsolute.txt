@@ -1,0 +1,16 @@
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\bin\Debug\net5.0\DesafioMesIngles.exe
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\bin\Debug\net5.0\DesafioMesIngles.deps.json
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\bin\Debug\net5.0\DesafioMesIngles.runtimeconfig.json
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\bin\Debug\net5.0\DesafioMesIngles.runtimeconfig.dev.json
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\bin\Debug\net5.0\DesafioMesIngles.dll
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\bin\Debug\net5.0\ref\DesafioMesIngles.dll
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\bin\Debug\net5.0\DesafioMesIngles.pdb
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\obj\Debug\net5.0\DesafioMesIngles.csproj.AssemblyReference.cache
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\obj\Debug\net5.0\DesafioMesIngles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\obj\Debug\net5.0\DesafioMesIngles.AssemblyInfoInputs.cache
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\obj\Debug\net5.0\DesafioMesIngles.AssemblyInfo.cs
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\obj\Debug\net5.0\DesafioMesIngles.csproj.CoreCompileInputs.cache
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\obj\Debug\net5.0\DesafioMesIngles.dll
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\obj\Debug\net5.0\ref\DesafioMesIngles.dll
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\obj\Debug\net5.0\DesafioMesIngles.pdb
+D:\Desafios\DesafioMesIngles\DesafioMesIngles\obj\Debug\net5.0\DesafioMesIngles.genruntimeconfig.cache
